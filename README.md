@@ -51,10 +51,6 @@
 > **Stack**: NS-3, Python  
 > 🎯 Project focused on wireless home networks
 
-#### 🎮 iOS War Game (Side Project)
-> A fun Swift-based strategy game  
-> **Stack**: Swift, Xcode  
-> 👾 Just for creative exploration!
 
 ---
 
@@ -71,7 +67,7 @@
 
 <p>
   <a href="mailto:khushiy2205@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/khushi-yadav-359325350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsYiSrLWLRj2eRXu2MMlLNw%3D%3D)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="linkedin.com/in/khushi-yadav-359325350"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
